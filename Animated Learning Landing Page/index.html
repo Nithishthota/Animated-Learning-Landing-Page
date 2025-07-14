@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Animated Landing Page</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+  <!-- Navbar -->
+  <nav class="navbar">
+    <div class="logo bounce">EduBoost</div>
+    <button class="nav-toggle" id="navToggle">☰</button>
+    <ul class="nav-links" id="navLinks">
+      <li><a href="#">Home</a></li>
+      <li><a href="#">Courses</a></li>
+      <li><a href="#">About</a></li>
+    </ul>
+  </nav>
+
+  <!-- Hero Section -->
+  <section class="hero fade-on-scroll">
+    <h1>Welcome to EduBoost</h1>
+    <p>Upgrade your skills with expert-led courses.</p>
+    <button class="cta-btn" id="openModal">Join Now</button>
+  </section>
+
+  <!-- Features -->
+  <section class="features fade-on-scroll">
+    <div class="feature-card">
+      <h3>Live Classes</h3>
+      <p>Attend real-time sessions with top instructors.</p>
+    </div>
+    <div class="feature-card">
+      <h3>Anytime Access</h3>
+      <p>Learn at your own pace, wherever you are.</p>
+    </div>
+  </section>
+
+  <!-- Modal -->
+  <div class="modal" id="modal">
+    <div class="modal-content">
+      <span class="close-btn" id="closeModal">&times;</span>
+      <h2>Get Started with EduBoost</h2>
+      <p>Register today and unlock 100+ courses for free.</p>
+    </div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
+
