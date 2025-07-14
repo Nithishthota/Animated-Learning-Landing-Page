@@ -33,6 +33,9 @@ Vanilla JavaScript (DOM manipulation, scroll detection)
 output
 
 
+     <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/9fac0ade-a16b-4500-ae10-1664254d0bed" />
+
+
 
              
 
