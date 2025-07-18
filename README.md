@@ -33,7 +33,10 @@ Vanilla JavaScript (DOM manipulation, scroll detection)
 output
 
 
-     <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/7b9d35c6-3791-4e55-968c-6df2cab11970" />
+
+
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/7b9d35c6-3791-4e55-968c-6df2cab11970" />
 
 
 
